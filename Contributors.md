@@ -203,6 +203,7 @@
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Ralph Mari Gabrinao](https://github.com/ralphgabrinao)
 - [Eric Neves](https://github.com/ericneves)
+- [Aaron McNeely](https://github.com/amcneeley19)
 - [Surajit Mondal](https://github.com/Surajit10)
 - [Kayla M](https://github.com/kaynmay)
 - [Daniel Grieco](https://github.com/night-owl-official)
